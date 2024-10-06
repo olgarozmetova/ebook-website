@@ -1,6 +1,6 @@
 # Blog Mastery Website
 
-Website on how to start your own blog. This website is built with Bootstrap and SCSS. It uses [Font Awesome](https://fontawesome.com/) for icons.
+Website on how to start your own blog. This website is built with Bootstrap and Sass. It uses [Font Awesome](https://fontawesome.com/) for icons.
 
 ## Features
 
